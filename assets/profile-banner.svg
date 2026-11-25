@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Sepehr Raisi — Full-stack systems and intelligent products</title>
+  <desc id="desc">A dark modern banner with colorful signal lines and a terminal-inspired introduction.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080B16"/>
+      <stop offset="0.52" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#10182F"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.15" cy="0.1" r="0.8">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.92" cy="0.82" r="0.72">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#A78BFA" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glowB)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#A78BFA" stroke-opacity="0.28"/>
+
+  <g transform="translate(76 66)">
+    <circle cx="8" cy="8" r="8" fill="#FB7185"/>
+    <circle cx="36" cy="8" r="8" fill="#FBBF24"/>
+    <circle cx="64" cy="8" r="8" fill="#22C55E"/>
+    <text x="92" y="14" fill="#66759B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">sepehr@build-space:~</text>
+  </g>
+
+  <g transform="translate(76 142)">
+    <text x="0" y="0" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">$ whoami</text>
+    <text x="0" y="72" fill="#F4F7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Sepehr Raisi</text>
+    <text x="2" y="118" fill="#AAB6D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Full-stack systems · intelligent products · practical engineering</text>
+  </g>
+
+  <g transform="translate(76 322)">
+    <rect width="770" height="4" rx="2" fill="url(#signal)" filter="url(#softGlow)"/>
+    <text x="0" y="46" fill="#7281A8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">PYTHON / DJANGO / TYPESCRIPT / AI / AUTOMATION</text>
+  </g>
+
+  <g transform="translate(986 98)" fill="none" stroke-linecap="round">
+    <circle cx="72" cy="104" r="72" stroke="#7C3AED" stroke-width="2" stroke-opacity="0.5"/>
+    <circle cx="72" cy="104" r="48" stroke="#22D3EE" stroke-width="2" stroke-opacity="0.55"/>
+    <circle cx="72" cy="104" r="23" stroke="#22C55E" stroke-width="3" stroke-opacity="0.8"/>
+    <path d="M0 104H144M72 32V176" stroke="#C8D3F5" stroke-opacity="0.16"/>
+    <circle cx="72" cy="104" r="7" fill="#F4F7FF" stroke="none" filter="url(#softGlow)"/>
+    <path d="M72 104L120 58" stroke="url(#signal)" stroke-width="5" filter="url(#softGlow)"/>
+  </g>
+</svg>

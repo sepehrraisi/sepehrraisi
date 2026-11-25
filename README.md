@@ -1,78 +1,100 @@
-
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/sepehrraisi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Sepehr Raisi — Full-stack systems, intelligent products, practical engineering" />
 </p>
+
 <p align="center">
+  <a href="https://sepehrraisi.ir"><img src="https://img.shields.io/badge/PORTFOLIO-sepehrraisi.ir-7C3AED?style=for-the-badge&labelColor=0B1020" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sepehrraisi/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn" /></a>
+  <a href="https://github.com/sepehrraisi?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-EXPLORE-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Repositories" /></a>
 </p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### :woman_technologist: &nbsp;About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-sepehrraisi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sepehrraisi/)
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PhP" alt="PhP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<p align="center">
+  <code>Python</code>&nbsp;·&nbsp;<code>Django</code>&nbsp;·&nbsp;<code>TypeScript</code>&nbsp;·&nbsp;<code>AI</code>&nbsp;·&nbsp;<code>Automation</code>&nbsp;·&nbsp;<code>Product Engineering</code>
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sepehrraisi&theme=dark&background=000000)](https://git.io/streak-stats)
+### `01 / SIGNAL`
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrraisi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+I’m a full-stack developer from Iran building practical business systems and intelligent products. My work lives where reliable backends, thoughtful interfaces, automation, and real operational needs meet.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepehrraisi)](https://github.com/anuraghazra/github-readme-stats)
--->
+```text
+FOCUS      full-stack products · CRM & operations · AI-enabled tools
+BACKEND    Python · Django · APIs · integrations · automation
+FRONTEND   TypeScript · JavaScript · HTML · CSS
+BEYOND     computer vision · Android/Kotlin · C++ · Linux tooling
+```
+
+> I care about software that feels clear to use, stays maintainable, and solves an actual problem.
+
+### `02 / SELECTED TRANSMISSIONS`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌁ Persian OCR</h3>
+      <p>Open-source tooling that helps make optical character recognition more accessible for Persian text.</p>
+      <p><code>OCR</code> <code>Python</code> <code>Tesseract</code> <code>Shell</code></p>
+      <a href="https://github.com/sepehrraisi/Persian-OCR">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌁ Sepuntu</h3>
+      <p>A Linux-focused shell project reflecting my interest in automation, systems, and efficient developer workflows.</p>
+      <p><code>Shell</code> <code>Linux</code> <code>Automation</code></p>
+      <a href="https://github.com/sepehrraisi/Sepuntu">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌁ CgLancer Django</h3>
+      <p>A full-stack Django project from my earlier web-development work.</p>
+      <p><code>Django</code> <code>Python</code> <code>HTML</code> <code>CSS</code></p>
+      <a href="https://github.com/sepehrraisi/CgLancer-Django">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌁ The current chapter</h3>
+      <p>Recent work spans CRM and operations platforms, commerce, TypeScript frontends, AI applications, Android, and embedded experiments.</p>
+      <p><code>Private work</code> <code>2025—2026</code></p>
+      <a href="https://sepehrraisi.ir">Explore my portfolio →</a>
+    </td>
+  </tr>
+</table>
+
+### `03 / SYSTEM MAP`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,ts,js,html,css,php,mysql,docker,git,linux,bash,kotlin,cpp,vscode&perline=8" alt="Technology stack: Python, Django, TypeScript, JavaScript, HTML, CSS, PHP, MySQL, Docker, Git, Linux, Bash, Kotlin, C++, and VS Code" />
+</p>
+
+<details>
+  <summary><strong>How I tend to work</strong></summary>
+  <br />
+  <ul>
+    <li>Start with the operational problem, not the framework.</li>
+    <li>Design the data flow and boundaries before polishing the interface.</li>
+    <li>Automate repetitive work and make failure states visible.</li>
+    <li>Prefer readable systems that the next developer can confidently change.</li>
+  </ul>
+</details>
+
+### `04 / TELEMETRY`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sepehrraisi&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=C8D3F5&ring_color=22C55E" alt="Sepehr Raisi's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrraisi&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=C8D3F5" alt="Sepehr Raisi's most-used public languages" />
+</p>
+
+<p align="center">
+  <sub>Public statistics show only a small part of my recent work; most current product development is in private repositories.</sub>
+</p>
+
 ---
-<!--
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
+<p align="center">
+  <strong>Have a useful problem worth solving?</strong><br />
+  <a href="https://www.linkedin.com/in/sepehrraisi/">Let’s connect</a>
+</p>
 
-<!--
-**sepehrraisi/sepehrraisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sepehrraisi&style=flat-square&color=7C3AED&label=PROFILE+SIGNALS" alt="Profile views" />
+</p>
